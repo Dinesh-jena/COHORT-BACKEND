@@ -1,0 +1,36 @@
+.mood-songs{
+    width: 100%;
+    padding: 4rem;
+    padding-top: 0 ;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+.mood-songs h2{
+    margin-bottom: 1rem;
+}
+
+.mood-songs .song {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    /* flex-direction: column;
+    align-items: center;
+    margin-bottom: 2rem; */
+    margin: 2rem 0;
+}
+
+.mood-songs .title{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 2rem;
+    gap:0;
+}
+
+.mood-songs .play-pause-button{
+
+    margin-top: 2rem;
+    font-size: 2.5rem;
+
+}

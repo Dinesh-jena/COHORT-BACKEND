@@ -1,0 +1,5 @@
+que.1>what is database==>A place to store and manage application data.
+
+SCHEMA
+
+note =>{title and content}

@@ -1,0 +1,10 @@
+//express server => nodejs application
+
+//npm =>node package manager
+//npx => node package executer 
+
+//bhai frontend se data backend me kese bhej te hai :-
+
+                        //1>.req.body => post request se data bhejne ke liye
+                        //2>.req.query => get request se data bhejne ke liye
+                        //3>.req.params => url me data bhejne ke liye

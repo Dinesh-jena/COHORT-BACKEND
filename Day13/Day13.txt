@@ -3,3 +3,6 @@
 // POST /login => check username & password then loggedIn the user 
 // GET /user => get user Data [protected]
 // GET /logout => loggedOut user
+
+
+.lean method kyab hai ye padh lena bhai

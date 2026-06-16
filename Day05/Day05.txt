@@ -1,0 +1,4 @@
+post /notes =>{title,content}
+Get /notes => get all notes 
+Delete /notes/:id =>delete a notes
+Patch /notes/:id =>update a note

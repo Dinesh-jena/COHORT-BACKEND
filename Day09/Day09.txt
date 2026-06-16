@@ -1,0 +1,4 @@
+Post / register =>user create / register karna => 
+Post /login =>check usernamwe & password then logged in the useer 
+get / user => get user Data [protected]
+get /logout => loggedout user

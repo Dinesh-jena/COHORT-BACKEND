@@ -1,0 +1,5 @@
+-->miiddleware is the haert of the server 
+
+-->middleware:-
+-req ke data ko modifie kr skte hai 
+-response send kr sakte hai 

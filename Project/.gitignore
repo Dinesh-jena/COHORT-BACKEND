@@ -1,2 +1,3 @@
+echo Project/.env >> .gitignore
 .env
 node_modules

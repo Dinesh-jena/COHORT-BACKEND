@@ -5,7 +5,7 @@ const ai = new GoogleGenAI({
 });
 
 async function main() {
-   console.log(process.env.GEMINI_API_KEY);
+   console.log("API KEY:", process.env.GEMINI_API_KEY?.slice(0, 10));
   const response = await ai.models.generateContent({
     model: "gemini-2.5-flash",
     contents: "Explain how AI works in a few words",
@@ -14,7 +14,7 @@ async function main() {
   console.log(response.text);
 }
 
-main();
+// main();
 
 async function generateCaption(base64ImageFile) {
   const contents = [
